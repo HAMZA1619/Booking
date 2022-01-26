@@ -12,5 +12,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+package.json
+package-lock.json
 /.idea
 /.vscode
